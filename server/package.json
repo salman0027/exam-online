@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Jeet989/ExamSGP.git"
+        "url": "git+https://github.com/salman0027/exam-online.git"
     },
     "keywords": [
         "react",
@@ -24,9 +24,9 @@
     "author": "Jeet Mehta, Mann Mehta",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Jeet989/ExamSGP/issues"
+        "url": "https://github.com/salman0027/exam-online/issues"
     },
-    "homepage": "https://github.com/Jeet989/ExamSGP#readme",
+    "homepage": "https://github.com/salman0027/exam-onlineP#readme",
     "devDependencies": {
         "express": "^4.17.1",
         "nodemon": "^2.0.16"
